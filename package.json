@@ -1,0 +1,26 @@
+{
+  "name": "cloud-error",
+  "version": "0.0.1",
+  "description": "node micservice custome error",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com/wanglihui/cloud-error"
+  },
+  "keywords": [
+    "node",
+    "micservice",
+    "custome",
+    "error"
+  ],
+  "author": "wanglihui.sjz@gmail.com",
+  "license": "ISC",
+  "files": [
+    "dist",
+    "package.json",
+    "README.md"
+  ]
+}
